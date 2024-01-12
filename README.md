@@ -1,13 +1,18 @@
-# 👋 Hi, I’m Ushno!
+# 👋 Hi, I’m Ushno!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-📖 CURRENTLY LEARNING :
+
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 
 👨🏻‍💻 Full-Stack Web App Development
 
 Tech Stack
 🛠 Lang & Framework: Vue/React, Javascript
 ⛏ Interest: Svelte, Typescript
+🚀 Some of my main projects:
 
+- 🔭 I’m currently working on a Project in Angular and another Project with MongoDb and NodeJS:
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ush-no&repo=angular-web-portfolio)](https://github.com/uh-no/angular-Registration-Project)
 
 
 
@@ -17,19 +22,17 @@ Tech Stack
 
 - 
 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  #h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
-        
-        ## Quick stats about me
+- 📖 I am CURRENTLY LEARNING : ...
+ #### - Data Structure & Algorithm using Python
+ #### - React.js
+
+
+## Quick stats about me
 | My Github Stats | Programming Languages i use|
 | --- | --- |
 | ![ github stats](https://github-readme-stats.vercel.app/api?username=ush-no&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![ ushnostop languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ush-no&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ush-no&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ush-no&theme=github_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=theabbie&theme=github_dark)
 
 
 ### Programming Language
