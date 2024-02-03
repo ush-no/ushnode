@@ -3,12 +3,15 @@
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 
-👨🏻‍💻 Full-Stack Web App Development and learning Software Development.
+👨🏻‍💻 Working and learning Full-Stack Web App Development and Software Development.
 
-Tech Stack
+Thanks for visiting my GitHub Profile. Here I store my Coding projects in GitHub repositories. You can visit my project source code.
+
+<!-- Tech Stack
 🛠 Lang & Framework: Vue/React, Javascript
 ⛏ Interest: Svelte, Typescript
 🚀 Some of my main projects:
+--->
 
 - 🔭 I’m currently working on a Project in React.js and another Project with MongoDb and NodeJS.
 
@@ -17,6 +20,7 @@ Tech Stack
  #### - Data Structure & Algorithm using Python
  #### - React.js
  ####  -Typescript
+ 
 
 ## My Skills -
 ### Programming Language
