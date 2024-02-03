@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Ushno!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
+<!-- # 👋 Hi, I’m Ushno!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
@@ -91,4 +91,5 @@ const thai = {
                       '''
  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
+--->
 --->
