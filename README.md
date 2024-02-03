@@ -10,7 +10,7 @@ Tech Stack
 ⛏ Interest: Svelte, Typescript
 🚀 Some of my main projects:
 
-- 🔭 I’m currently working on a Project in Angular and another Project with MongoDb and NodeJS:
+- 🔭 I’m currently working on a Project in React.js and another Project with MongoDb and NodeJS:
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ush-no&repo=angular-web-portfolio)](https://github.com/uh-no/angular-Registration-Project)
 
