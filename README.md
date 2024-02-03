@@ -44,7 +44,7 @@ Tech Stack
 ![git](https://img.shields.io/badge/-git-000?&logo=Git)
 ![vscode](https://img.shields.io/badge/-VS_Code-000?&logo=)
 
-<--- ### Full Stack Projects
+<!--- ### Full Stack Projects
 
 [![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://github.com/adamalston/v2)
 [![](https://img.shields.io/badge/-🦠%20COVID‑19%20Dashboard-000)](https://github.com/adamalston/COVID-19-Dashboard)
