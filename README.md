@@ -3,7 +3,7 @@
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 
-👨🏻‍💻 Full-Stack Web App Development
+👨🏻‍💻 Full-Stack Web App Development and learning Software Development.
 
 Tech Stack
 🛠 Lang & Framework: Vue/React, Javascript
@@ -17,7 +17,41 @@ Tech Stack
  #### - Data Structure & Algorithm using Python
  #### - React.js
 
+## My Skills -
+### Programming Language
 
+![C](https://img.shields.io/badge/--000?&logo=C)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+
+### Language Framework
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![Express.js](https://img.shields.io/badge/-Express-000?&logo=express)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
+
+### DataBase
+
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
+
+### Tools and Technologies
+
+![Css](https://img.shields.io/badge/-CSS-000?&logo=Css3)
+![Htmlt](https://img.shields.io/badge/-HTML-000?&logo=Html5)
+![git](https://img.shields.io/badge/-git-000?&logo=Git)
+![vscode](https://img.shields.io/badge/-VS_Code-000?&logo=)
+
+### Full Stack Projects
+
+[![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://github.com/adamalston/v2)
+[![](https://img.shields.io/badge/-🦠%20COVID‑19%20Dashboard-000)](https://github.com/adamalston/COVID-19-Dashboard)
+[![](https://img.shields.io/badge/-📝%20Summarizer-000)](https://github.com/adamalston/Summarizer)
+[![](https://img.shields.io/badge/-🔬%20Overwatch-000)](https://github.com/adamalston/overwatch)
+[![](https://img.shields.io/badge/-🛰%20KubeSat-000)](https://github.com/adamalston/kubesat)
+[![](https://img.shields.io/badge/-🔊%20Voice%20Poker-000)](https://github.com/adamalston/Poker)
+[![](https://img.shields.io/badge/-🗺%20PokémonGo%20Map-000)](https://github.com/adamalston/PokemonGo-Map)
 ## Quick stats about me
 | My Github Stats | Programming Languages i use|
 | --- | --- |
