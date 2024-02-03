@@ -10,12 +10,13 @@ Tech Stack
 ⛏ Interest: Svelte, Typescript
 🚀 Some of my main projects:
 
-- 🔭 I’m currently working on a Project in React.js and another Project with MongoDb and NodeJS:
+- 🔭 I’m currently working on a Project in React.js and another Project with MongoDb and NodeJS.
 
 
  ## 📖 I am Currently Learning:--
  #### - Data Structure & Algorithm using Python
  #### - React.js
+ ####  -Typescript
 
 ## My Skills -
 ### Programming Language
@@ -67,6 +68,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
+<!--- 
 '''javascript
 const thai = {
   pronouns: "she" | "her",
@@ -81,3 +83,4 @@ const thai = {
                       '''
  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
+--->
