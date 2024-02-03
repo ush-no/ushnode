@@ -44,7 +44,7 @@ Tech Stack
 ![git](https://img.shields.io/badge/-git-000?&logo=Git)
 ![vscode](https://img.shields.io/badge/-VS_Code-000?&logo=)
 
-### Full Stack Projects
+<--- ### Full Stack Projects
 
 [![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://github.com/adamalston/v2)
 [![](https://img.shields.io/badge/-🦠%20COVID‑19%20Dashboard-000)](https://github.com/adamalston/COVID-19-Dashboard)
@@ -59,7 +59,7 @@ Tech Stack
 | ![ github stats](https://github-readme-stats.vercel.app/api?username=ush-no&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![ ushnostop languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ush-no&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ush-no&theme=github_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=theabbie&theme=github_dark)
-
+--->
 
 
 <!---
