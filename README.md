@@ -12,17 +12,8 @@ Tech Stack
 
 - 🔭 I’m currently working on a Project in React.js and another Project with MongoDb and NodeJS:
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ush-no&repo=angular-web-portfolio)](https://github.com/uh-no/angular-Registration-Project)
 
-
-
-
-
-
-
-- 
-
-- 📖 I am CURRENTLY LEARNING : ...
+- #📖 I am CURRENTLY LEARNING : ...
  #### - Data Structure & Algorithm using Python
  #### - React.js
 
